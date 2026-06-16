@@ -14,6 +14,14 @@ Toollibs is a modular C++ framework ecosystem designed for lightweight, structur
 
 It goes beyond a simple library collection — providing a **build system, runtime verification pipeline, plugin architecture, and automated deployment system**.
 
+### Moved
+
+Toollibs has moved to:
+
+https://github.com/ToolGits/Toollibs
+
+This repository has been archived.
+
 ---
 
 ## 🚀 Core Philosophy
